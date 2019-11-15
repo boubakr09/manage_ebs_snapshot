@@ -4,3 +4,8 @@ In general organizations protect critical and valuable data by doing regular bac
 
 ## Run script
 
+Run the command bellow:
+
+```
+python3 manage_ebs_snapshots.py
+```
